@@ -1,0 +1,38 @@
+# Arquivos do sistema operacional
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDEs e editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Arquivos temporários do MARS
+*.obj
+*.lst
+*.hex
+*.bin
+
+# Arquivos de backup
+*.bak
+*.backup
+*.old
+
+# Logs
+*.log
+
+# Arquivos compilados/executáveis específicos de Assembly
+*.exe
+*.out
+*.o
+
+# Arquivos temporários
+*.tmp
+*.temp
